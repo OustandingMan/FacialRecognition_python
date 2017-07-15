@@ -1,4 +1,3 @@
-# FacialRecognition_python
 # A Facial Recognition utility in a dozen of python LOC (Lines Of Code)
 > 用10几行Python代码自己写个人脸识别程序 (Chinese title, please scrolldown to view README in Chinese.)
 
